@@ -1,0 +1,4 @@
+aiomysql==0.0.21
+asyncpg==0.22.0
+python-dotenv==0.17.0
+quart==0.14.1
